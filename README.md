@@ -5,9 +5,9 @@ Ich habe mit meiner Gruppe mit Winforms ein Hütchenspiel gemacht. Wir haben daf
 
 ## Ziele
 
-Ich weis, wofür man die 3 Tools benutzen kann.
+Ich weiß, wofür man die 3 Tools benutzen kann.
 
-Ich weis, wie ich die 3 Tools sinnvoll implementieren kann.
+Ich weiß, wie ich die 3 Tools sinnvoll implementieren kann.
 
 Ich kann die 3 Tools benutzen.
 
