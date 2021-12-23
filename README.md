@@ -1,6 +1,6 @@
 # Winforms
 
-Ich habe mit meiner Gruppe mit Winforms ein Hütchenspiel gemacht. Wir haben dafür hauptsächlich Buttons, Labels, textBoxen und pictureBoxen benutzt.
+Ich habe mit meiner Gruppe mit Winforms ein Hütchenspiel gemacht. Wir haben dafür hauptsächlich Buttons, Labels, textBoxen und pictureBoxen benutzt. Für mich war das Schwerste, den Rekord in einer Datei zu speichern, aber darüber werde ich hier nicht schreiben.
 
 
 ## Ziele
