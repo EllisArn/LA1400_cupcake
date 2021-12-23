@@ -58,6 +58,6 @@ public void button1_Click(object sender, EventArgs e)
     label1.Text = textBox1.Text;
 }
 ```
-Jetzt kann der Benutzer etwas in die textBox eingeben, dann den Button klicken und dass wird das, was er eingegeben hat im Label stehen.
+Jetzt kann der Benutzer etwas in die textBox eingeben, dann den Button klicken und dann wird das, was er eingegeben hat im Label stehen.
 
 
