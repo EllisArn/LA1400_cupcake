@@ -2,6 +2,7 @@
 
 Ich habe mit meiner Gruppe mit Winforms ein Hütchenspiel gemacht. Wir haben dafür hauptsächlich Buttons, Labels, textBoxen und pictureBoxen benutzt.
 
+
 ## Ziele
 
 Ich weis, wofür man die 3 Tools benutzen kann.
@@ -11,6 +12,7 @@ Ich weis, wie ich die 3 Tools sinnvoll implementieren kann.
 Ich kann die 3 Tools benutzen.
 
 ## Erklärung
+
 
 ### Button
 
@@ -35,11 +37,27 @@ private void label1_TextChanged(object sender, EventArgs e)
 }
 ```
 
-Mit ```csharp label1.Text(""); ``` kann man den Text im Label, z.B. wenn der Knopf gedrückt wird, ändern. Das sieht dann so aus:
+
+Mit ```csharp label1.Text = "";``` kann man den Text im Label, z.B. wenn der Knopf gedrückt wird, ändern. Das sieht dann so aus:
 ```csharp
 public void button1_Click(object sender, EventArgs e)
 {
-    label1.Text("Hallo");
+    label1.Text = "Hallo";
 }
 ```
 Jetzt würde, wenn man den Knopf drückt, der Text im Label zu "Hallo" ändern.
+
+
+### textBox
+
+Eine textBox ermöglicht es dem Benutzer Text einzugeben, den das Programm benutzen kann.
+Ich habe in dem Beispiel ein Label, ein Button und eine textBox benutzt.
+```csharp
+public void button1_Click(object sender, EventArgs e)
+{
+    label1.Text = textBox1.Text;
+}
+```
+Jetzt kann der Benutzer etwas in die textBox eingeben, dann den Button klicken und dass wird das, was er eingegeben hat im Label stehen.
+
+
