@@ -70,6 +70,6 @@ private void button1_Click(object sender, EventArgs e)
     pictureBox1.Visible = false;
 }
 ```
-Jetzt wird die pctureBox versteckt, sobald man den Button drückt.
+Jetzt wird die pictureBox versteckt, sobald man den Button drückt.
 
 
