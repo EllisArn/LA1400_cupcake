@@ -73,11 +73,17 @@ private void button1_Click(object sender, EventArgs e)
 Jetzt wird die pictureBox versteckt, sobald man den Button drückt.
 
 
+## Bilder
+
+![image](https://user-images.githubusercontent.com/89130718/147253429-62e53aaa-25fd-49e6-958e-ef525724d487.png)
+
+
+
 ## Verifikation
 
 Ich habe es einem Mitschüler gezeigt und er hat gesagt, dass mein Portfolio das Thema gut erklärt.
 
-##  Reflexion & VBV
+## Reflexion & VBV
 
 Für mich war das Schwerste, den Rekord in einer Datei zu speichern, aber darüber werde ich hier nicht schreiben. Ich habe das Problem zwar irgendwie gelöst, aber ich war nicht wirklich zufrieden. Deshalb will ich dem noch nachgehen. Ausserdem war die Kommunikation in der Gruppe etwas schwer. Die will ich beim nächsten Mal auch noch verbessern.
 
