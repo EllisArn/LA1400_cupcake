@@ -38,7 +38,7 @@ private void label1_TextChanged(object sender, EventArgs e)
 ```
 
 
-Mit ```csharp label1.Text = "";``` kann man den Text im Label, z.B. wenn der Knopf gedrückt wird, ändern. Das sieht dann so aus:
+Mit `label1.Text = "";` kann man den Text im Label, z.B. wenn der Knopf gedrückt wird, ändern. Das sieht dann so aus:
 ```csharp
 public void button1_Click(object sender, EventArgs e)
 {
@@ -63,7 +63,7 @@ Jetzt kann der Benutzer etwas in die textBox eingeben, dann den Button klicken u
 
 ### pictureBox
 
-Eine pictureBox ist dazu da, ein Bild anzuzeigen. Ich habe in dem Beispiel einen Button benutzt, und ```csharp pictureBox1.Visible``` benutzt.
+Eine pictureBox ist dazu da, ein Bild anzuzeigen. Ich habe in dem Beispiel einen Button benutzt, und `pictureBox1.Visible` benutzt.
 ```csharp
 private void button1_Click(object sender, EventArgs e)
 {
