@@ -77,7 +77,7 @@ Jetzt wird die pictureBox versteckt, sobald man den Button drückt.
 
 ![image](https://user-images.githubusercontent.com/89130718/147253429-62e53aaa-25fd-49e6-958e-ef525724d487.png)
 
-https://www.youtube.com/watch?v=hF94VTPIyFs
+[Video](https://www.youtube.com/watch?v=hF94VTPIyFs)
 
 
 ## Verifikation
