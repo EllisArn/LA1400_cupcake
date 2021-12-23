@@ -61,3 +61,15 @@ public void button1_Click(object sender, EventArgs e)
 Jetzt kann der Benutzer etwas in die textBox eingeben, dann den Button klicken und dann wird das, was er eingegeben hat im Label stehen.
 
 
+### pictureBox
+
+Eine pictureBox ist dazu da, ein Bild anzuzeigen. Ich habe in dem Beispiel einen Button benutzt, und ```csharp pictureBox1.Visible``` benutzt.
+```csharp
+private void button1_Click(object sender, EventArgs e)
+{
+    pictureBox1.Visible = false;
+}
+```
+Jetzt wird die pctureBox versteckt, sobald man den Button drückt.
+
+
